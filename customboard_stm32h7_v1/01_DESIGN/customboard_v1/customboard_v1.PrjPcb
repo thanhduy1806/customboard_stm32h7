@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BJUODOLY
 
 [Document2]
-DocumentPath=stlink.SchDoc
+DocumentPath=STLink_V3E_Module.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -81,11 +81,24 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-<<<<<<< HEAD
 DocumentUniqueId=SOAHSGKR
-=======
-DocumentUniqueId=
->>>>>>> d79ca368fb875f9edfce10928eb2e106580a784c
+
+[Document3]
+DocumentPath=STLink_V3E_PWR.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GIMQSPXR
 
 [Configuration1]
 Name=Sources
