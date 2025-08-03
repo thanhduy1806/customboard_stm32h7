@@ -1,2 +1,5 @@
-﻿Record=TopLevelDocument|FileName=project_overview.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=project_overview.SchDoc|FileName=stlink.SchDoc|SheetNumber=2
+﻿Record=TopLevelDocument|FileName=mcu.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=mcu.SchDoc|FileName=power.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=mcu.SchDoc|FileName=project_overview.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=mcu.SchDoc|FileName=sdram.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=mcu.SchDoc|FileName=stlink.SchDoc|SheetNumber=2
