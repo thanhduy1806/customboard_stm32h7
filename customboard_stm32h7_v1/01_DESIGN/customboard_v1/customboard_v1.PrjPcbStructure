@@ -1,5 +1,5 @@
-﻿Record=TopLevelDocument|FileName=mcu.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=mcu.SchDoc|FileName=power.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=mcu.SchDoc|FileName=project_overview.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=mcu.SchDoc|FileName=sdram.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=mcu.SchDoc|FileName=stlink.SchDoc|SheetNumber=2
+﻿Record=TopLevelDocument|FileName=project_overview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=project_overview.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=TOP.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=TOP.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=mcu.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=mcu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=U_Memory|SchDesignator=U_Memory|FileName=sdram.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=sdram.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=power.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
